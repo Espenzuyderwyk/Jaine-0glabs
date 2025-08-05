@@ -1,0 +1,19 @@
+{
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Daily full automated bot to farm the Jaine App airdrop on the 0G Labs testnet",
+  "name": "Jaine-0glabs",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "web3": "^4.0.0"
+  }
+}
